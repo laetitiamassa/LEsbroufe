@@ -1,0 +1,17 @@
+@import 'bootstrap';
+$navbar-height:             50px;
+$navbar-default-bg:         white;
+
+.homebg {
+margin-top: -220px;
+margin-bottom: 10px;
+padding-top: 750px;
+padding-bottom: 20px;
+color: #f8f8f8; 
+background-image: url(image-path('cover_home_bg.png'));
+height: 900px;
+background-align: center;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+}
